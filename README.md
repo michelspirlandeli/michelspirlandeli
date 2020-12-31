@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on **Compliance Soluções em Tecnologia**
 
-- 🌱 I’m currently learning **Angular, React JS , Spring-boot**
+- 🌱 I’m currently learning **React JS , Spring-boot**
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
