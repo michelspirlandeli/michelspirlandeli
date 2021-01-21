@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning **React JS , Spring-boot**
+<a href="https://www.linkedin.com/in/michel-spirlandeli/">
+<img src="https://img.shields.io/badge/MichelSpirlandeli-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
