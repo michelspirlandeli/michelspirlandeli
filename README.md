@@ -55,17 +55,6 @@ Apaixonado por tecnologia, escrevendo código limpo e criando soluções escalá
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=michelspirlandeli&show_icons=true&theme=omni&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelspirlandeli&layout=compact&langs_count=10&theme=omni" height="180em" />
-</p>
-
----
-
 ### ✨ Sobre Mim
 
 - 🧑‍💻 Desenvolvedor com experiência em **projetos de pagamento, financeiro e SaaS**
