@@ -1,68 +1,82 @@
-<h1 align="center">Michel Spirlandeli</h1>
+<h1 align="center">Michel Spirlandeli ☕</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/michel-spirlandeli/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
+  <b>Back-end Developer · Java &amp; Spring Boot</b><br>
+  Construindo APIs REST e sistemas distribuídos escaláveis.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/michel-spirlandeli/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=michelspirlandeli&style=flat-square&color=blue" alt="Profile Views" />
+  <a href="https://michelspirlandeli.github.io/">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=michelspirlandeli&style=for-the-badge&color=blue" alt="Profile views" />
 </p>
 
 ---
 
-### 🚀 Michel Spirlandeli — Back-end Developer
+### 👨‍💻 Sobre mim
 
-Apaixonado por tecnologia, escrevendo código limpo e criando soluções escaláveis. Tenho foco principal no **ecossistema Java + Spring**, com vivência em integrações, microsserviços, e aplicações full-stack.
+Desenvolvedor back-end com ~7 anos de experiência. Meu foco é o ecossistema **Java + Spring Boot**, com vivência em APIs REST, microsserviços, mensageria e boas práticas de engenharia (Clean Code, SOLID e DDD).
 
----
-
-### 🧠 Habilidades Técnicas
-
-#### 🖥️ Back-end
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-</p>
-
-#### 🌐 Front-end
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-#### 🗄️ Banco de Dados
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-</p>
-
-#### ☁️ DevOps e Cloud
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" />
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-</p>
-
-#### 🛠️ Ferramentas e IDEs
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-</p>
-
-### ✨ Sobre Mim
-
-- 🧑‍💻 Desenvolvedor com experiência em **projetos de pagamento, financeiro e SaaS**
-- 💡 Interesses: sistemas distribuídos, arquitetura limpa, DDD e boas práticas
-- 🎯 Em constante aprendizado e evolução
-- 🤝 Aberto a networking, freelas e colaborações open source
+- 🔭 Trabalhando com **Java 21 · Spring Boot 3 · PostgreSQL · Redis · RabbitMQ**
+- 🌱 Aprofundando em arquitetura de sistemas e **AWS**
+- 🎯 Em evolução constante
+- 📍 Franca, SP — Brasil
 
 ---
 
-<p align="center">
-  <em>"A melhor forma de prever o futuro é criá-lo." – Alan Kay</em>
-</p>
+### 🛠️ Tecnologias
+
+**Linguagens**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Back-end**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate_/_JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+**Front-end**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Banco de Dados &amp; Mensageria**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+**DevOps &amp; Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 📌 Projeto em destaque
+
+**[ecommerce-api](https://github.com/michelspirlandeli/ecommerce-api)** — API REST de e-commerce · Java 21 · Spring Boot 3.3 · PostgreSQL · Redis · RabbitMQ
+
+---
+
+<p align="center"><i>"A única maneira de fazer um excelente trabalho é amar o que você faz." — Steve Jobs</i></p>
